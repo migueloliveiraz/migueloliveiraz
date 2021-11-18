@@ -12,3 +12,9 @@ a
 #### Frameworks
 ![REACT](https://img.shields.io/badge/-REACT-05122A?style=for-the-badge&logo=react)
 ![NEXT](https://img.shields.io/badge/-NEXT-05122A?style=for-the-badge&logo=next.js)
+
+#### Tools
+![YARN](https://img.shields.io/badge/-YARN-05122A?style=for-the-badge&logo=yarn)
+![NPM](https://img.shields.io/badge/-NPM-05122A?style=for-the-badge&logo=npm)
+![GIT](https://img.shields.io/badge/-GIT-05122A?style=for-the-badge&logo=git)
+![NODEJS](https://img.shields.io/badge/-NODEJS-05122A?style=for-the-badge&logo=nodejs)
