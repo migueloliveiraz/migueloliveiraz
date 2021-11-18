@@ -1,8 +1,7 @@
 <h1 align="center">⚡ Hi, I'm Miguel!</h1>
 
 <p align="center>I'm fascinated by technology & web development.</p>
-
-<p align="center> I'm a front end programmer, passionate about math and technology. Fascinated to learn and pass on what I know.</p>
+<p align="center>I'm a front end programmer, passionate about math and technology. Fascinated to learn and pass on what I know.</p>
 
 ---
 ### :computer: Knowledge <br />
