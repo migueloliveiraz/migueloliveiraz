@@ -1,4 +1,4 @@
-## Hi, I'm Miguel!
+<h1 align="center">⚡ Hi, I'm Miguel!</h1>
 
 I'm fascinated by technology & web development. 
 
