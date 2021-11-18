@@ -2,7 +2,7 @@
 
 I'm fascinated by technology & web development. 
 
-I'm a front end programmer, enthusiastic about solving problems, I love math and I'm constantly learning.
+I'm a front end programmer, passionate about math and technology. Fascinated to learn and pass on what I know.
 
 ---
 ### :computer: Knowledge <br />
