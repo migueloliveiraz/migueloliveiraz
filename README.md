@@ -1,7 +1,7 @@
 ## Hi, I'm Miguel!
 
-<p>I'm fascinated by technology & web development.</p>
-<p>I'm a front end programmer, enthusiastic about solving problems, I love math and I'm constantly learning.</p>
+I'm fascinated by technology & web development.
+I'm a front end programmer, enthusiastic about solving problems, I love math and I'm constantly learning.
 
 ---
 ### :computer: Knowledge <br />
