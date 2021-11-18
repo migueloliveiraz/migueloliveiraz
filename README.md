@@ -1,6 +1,7 @@
 ## Hi, I'm Miguel!
 
-I'm fascinated by technology & web development.
+I'm fascinated by technology & web development. 
+
 I'm a front end programmer, enthusiastic about solving problems, I love math and I'm constantly learning.
 
 ---
