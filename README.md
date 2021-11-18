@@ -1,5 +1,6 @@
 ## Hi, I'm Miguel!
 
+---
 ### :computer: Knowledge <br />
 
 #### Languages
