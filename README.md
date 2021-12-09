@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Hi, I'm Miguel!</h1>
 
 <p align="center">I'm fascinated by technology & web development.</p>
-<p align="center">I'm a front end programmer, passionate about math and technology. Fascinated to learn and pass on what I know.</p>
+<p align="center">I'm a backend end programmer, passionate about math and technology. Fascinated to learn and pass on what I know.</p>
 
 ---
 ### :computer: Knowledge <br />
@@ -9,7 +9,7 @@
 #### Languages
 ![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-05122A?style=for-the-badge&logo=typescript)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-05122A?style=for-the-badge&logo=javascript)
-![RUST](https://img.shields.io/badge/-RUST-05122A?style=for-the-badge&logo=rust)
+![GOLANG](https://img.shields.io/badge/-RUST-05122A?style=for-the-badge&logo=golang)
 
 #### Frameworks
 ![REACT](https://img.shields.io/badge/-REACT-05122A?style=for-the-badge&logo=react)
