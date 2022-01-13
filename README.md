@@ -4,5 +4,5 @@
 
 <p align="center">
   <strong>“We can only see a short distance ahead, but we can see plenty there that needs to be done.”</strong>
-  <strong align="center">Alan Turing</strong>
 </p>
+<p align="center"><strong>Alan Turing</strong></p>
