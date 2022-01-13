@@ -7,3 +7,4 @@
   <strong>“We can only see a short distance ahead, but we can see plenty there that needs to be done.”</strong>
 </p>
 <p align="center"><strong>Alan Turing</strong></p>
+[![Linkedin Badge](https://img.shields.io/badge/-Miguel%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-oliveira-861693218/)](https://www.linkedin.com/in/miguel-oliveira-861693218/) 
