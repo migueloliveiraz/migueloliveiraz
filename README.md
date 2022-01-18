@@ -5,4 +5,4 @@
 
 
 <p>I'm a backend programmer, passionate about technology and development. Always learning!</p>
-<p>I am currently improving my knowledge in <strong>NodeJS, Typescript, TDD, SOLID, AWS & Architecture</strong>.</p>
+<p>I am currently improving my knowledge in <strong>NodeJS, Typescript, NestJS, TDD, SOLID, AWS & Architecture</strong>.</p>
